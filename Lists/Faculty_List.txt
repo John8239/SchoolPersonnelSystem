@@ -1,0 +1,7 @@
+Name: John Jefferson, Department: History, Start Date: 8/25/2009, Adjunct: No, Tenured: No, Salary: $78,000, Email: johnjeff@sample.com
+Name: Terrance Thompson, Department: Biology, Start Date: 8/25/1998, Adjunct: No, Tenured: yes, Salary: $160,000, Email: terrthom@sample.com
+Name: James Hemmings, Department: Chemistry, Start Date: 2018, Adjunct: Yes, Tenured: No, Salary: $29,000, Email: jamehemm@sample.com
+Name: Lydia Santorum, Department: Biomedical Engineering, Start Date: 08/25/2018, Adjunct: No, Tenured: No, Salary: $50,000, Email: lydisant@sample.com
+Name: Stephen Dunnington, Department: Anthropology, Start Date: 08/25/2000, Adjunct: Yes, Tenured: No, Salary: $20,000, Email: stepdunn@sample.com
+Name: Jack Flotsam, Department: Biology, Start Date: 08/25/2000, Adjunct: No, Tenured: Yes, Salary: $100,000, Email: jackflot@sample.com
+Name: Sally Samsom, Department: Electrical Engineering, Start Date: 2007-08-25, Adjunct: No, Tenured: No, Salary: $110,000, Email: sallsams@sample.com

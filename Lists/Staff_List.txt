@@ -1,0 +1,7 @@
+Name: Hillary Huffington, Department: Math, Start Date: 8/25/2011, Position: Advisor, Salary: $50,000, Email: hillhuff@sample.com
+Name: Timothy Tomczak, Department: Music, Start Date: 8/25/2014, Position: Secretary, Salary: $42,000, Email: timotomc@sample.com
+Name: Penny Fulton, Department: Art, Start Date: 08/25/2010, Position: Secretary, Salary: $50,000, Email: pennfult@sample.com
+Name: Jaquelin Sanders, Department: Architecture, Start Date: 08/25/2006, Position: Advisor, Salary: $55,000, Email: jaqusand@sample.com
+Name: Gary Garfield, Department: Chemistry, Start Date: 2009-08-25, Position: Advisor, Salary: $50,000, Email: garygarf@sample.com
+Name: Linus Leberman, Department: Linguistics, Start Date: 2011-08-25, Position: Advisor, Salary: $60,000, Email: linulebe@sample.com
+Name: Kyle Stein, Department: Mechanical Engineering, Start Date: 2020-08-25, Position: Advisor, Salary: $40,000, Email: kylestei@sample.com
